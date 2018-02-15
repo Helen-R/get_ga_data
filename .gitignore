@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rproj
+get_ga_data.Rproj
+.httr-oauth
+.csv
+token/
+ga.httr-oauth
+auth/
+.DS_Store
+
